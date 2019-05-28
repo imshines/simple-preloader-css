@@ -1,7 +1,7 @@
 # simple-preloader-css
 A very simple css preloader for websites
 
-##How to use
+## How to use
 
 1.Add the "divs" to the end of your HTML file from this HTML file, ("#loader-wrapper,#loader,#circle-outline")
 2.Also add CSS id's to the CSS file that you've been created.
@@ -13,7 +13,7 @@ $(window).load(function(){
 });
 </code>
 
-####That's it the loader will work now.
+#### That's it the loader will work now.
 
 Modify the css to change the animations and other properties.
 
